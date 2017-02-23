@@ -1,5 +1,4 @@
 # 20170223
-学习使用Github
-记录自己学习python的过程
-readme不能换行编写？
-差分不同
+#Study how to use the tool GitHub
+#I will use the GitHub to record the process of learning python
+#This is all

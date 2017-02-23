@@ -1,4 +1,4 @@
 # 20170223
-学习使用GitHub
-记录自己学习python的过程
-查看pull request的不同
+Study how to use the GitHub tool
+I will use this tool to record the process of learning Python
+This step will test the pull requests function
